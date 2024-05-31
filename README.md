@@ -15,3 +15,6 @@ ML 전공수업 Kaggle Competition
 ---
 ## 4. 성과
 - Ranking 2/16 team
+
+---
+개인정보를 포함한 Dataset이기에 업로드하지 않음
