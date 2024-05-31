@@ -17,4 +17,4 @@ ML 전공수업 Kaggle Competition
 - Ranking 2/16 team
 
 ---
-개인정보를 포함한 Dataset이기에 업로드하지 않음
+개인정보가 포함된 Dataset이기에 업로드하지 않음
